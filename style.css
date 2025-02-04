@@ -36,3 +36,15 @@ a{
 .menu img{
     height: 16px;
 }
+.container{
+    background-color: lawngreen;
+    height: 100%;
+    padding: 30px;
+    border-radius: 15px;
+    width: 25%;
+}
+.supra{
+    display: flex;
+    background-color: blue;
+    align-items: center;
+}
