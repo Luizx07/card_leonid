@@ -41,3 +41,4 @@ function criarItemMenu (disciplina) {
 }
 
 disciplinas.forEach(criarItemMenu)
+
